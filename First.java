@@ -5,7 +5,7 @@ public class HelloWorld {
         System.out.println("Company: Finzly");
         int a=10;
         int b=7;
-        System.out.peitnln(a+b);
+        System.out.println(a+b);
     }
 }
  
